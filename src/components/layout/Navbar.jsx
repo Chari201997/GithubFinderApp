@@ -35,4 +35,4 @@ Navbar.prototype = {
     title: PropTypes.string,
 }
 
-export default Navbar;
+export  default Navbar;
